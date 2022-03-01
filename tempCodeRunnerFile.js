@@ -1,0 +1,1 @@
+setTimeout(sayHello, 1000);
